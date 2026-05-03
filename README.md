@@ -2,7 +2,7 @@
 
 # Hi, I'm Zain Imran 👋
 
-### Computer Science Student | Full-Stack Developer | Software Engineering Intern
+### Computer Science Student | Full-Stack Developer
 
 I am focused on building practical, database-driven web applications using modern full-stack technologies.  
 My main interests are **web development, software engineering, backend APIs, databases, authentication, AI-assisted features and cloud deployment**.
@@ -17,7 +17,7 @@ My main interests are **web development, software engineering, backend APIs, dat
 
 ## 👨‍💻 About Me
 
-I am a Computer Science student and Software Engineering Intern with hands-on experience in full-stack web development.
+I am a Computer Science student with hands-on experience in full-stack web development.
 
 I enjoy designing and building applications that combine clean user interfaces, secure backend logic, structured databases and reliable deployment workflows. I am currently developing university and personal projects using technologies such as **Next.js, React, TypeScript, Node.js, Express, PostgreSQL, Prisma, Supabase, Vercel and Render**.
 
@@ -169,7 +169,7 @@ I am currently focused on becoming a strong junior software developer with pract
 
 ### Let’s Connect
 
-I am open to junior software developer roles, internships, graduate opportunities and collaboration on full-stack web-development projects.
+I am open to junior software developer roles, graduate opportunities and collaboration on full-stack web-development projects.
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zain-imran-347a24251/)
 [![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zainimran699@gmail.com)
