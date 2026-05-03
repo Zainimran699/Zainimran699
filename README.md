@@ -127,19 +127,15 @@ A web application for prospective students to browse undergraduate and postgradu
 - Applying computer science knowledge to real software engineering workflows
 
 ---
-
 ## 📊 GitHub Activity
 
 <div align="center">
-
-![Zain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zainimran699&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zainimran699&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Zainimran699&theme=tokyonight&hide_border=true)
 
 </div>
 
+Most of my current development work is focused on university projects, full-stack application development and private project repositories. I am actively improving my GitHub profile by publishing selected clean, documented projects.
 ---
 
 ## 🎯 What I Am Working Towards
